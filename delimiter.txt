@@ -1,0 +1,8 @@
+Consider the following operation applied to possitive integer values: if the number is even, then halve it, butif the number is odd,
+ then multiply it by three and add one. thus the operation applied to 16 yields 8, while applied to 7 yields 22.
+the Syracuse sequence with starting point n, 
+begins with n itself and each subsequent element is obtained by applying the above operation to the one before untit value one is reached, 
+at which point the sequence ends. For example the sequence with starting point 3 is 3,10,5,16,8,4,2,1. 
+Here are the sequence for starting points one to twelve
+
+
