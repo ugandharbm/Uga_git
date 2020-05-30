@@ -1,0 +1,108 @@
+INC10608923
+
+
+agg/UC_Davis/file_intake
+
+NC10608998
+
+agg/NYU_O1/file_intake:NYU_O1_process_file
+
+8500957509...fire office 
+
+INC10624474
+
+MHC_process_file
+
+Failed to create path: \\BOSP7SASAPP02\J\Data_Warehouse\MHC\files\ at \\nasgw8315pn\Automation\Production\Scripts\ImpactSuite\UnzipMove.pl line 537.
+
+
+15/03/2019
+INC10707972
+
+agg/UC_Davis/file_intake:UC_Davis_process_file
+
+Failed to create path: \\BOSP7SASAPP01\N\Data_Warehouse\UC_Davis\files\notused\20190314 at \\nasgw8315pn\Automation\Production\Scripts\ImpactSuite\UnzipMove.pl line 384.
+
+15/03/2019
+
+INC10711588
+agg/NYU_O1/file_intake:NYU_O1_process_file
+
+INC10712031
+
+agg/NYU_O1/file_intake:NYU_O1_process_file
+
+18/03/2019
+
+
+
+can't move \\BOSP7SASAPP02\H\Data_Warehouse\Osler\files\working\7808\Osler All\Archive\OUTBOUND\osler_Rx_201702_201901.zip to \\BOSP7SASAPP02\H\Data_Warehouse\Osler\files\unknown\20190315\Osler All\Archive\OUTBOUND\osler_Rx_201702_201901.zip: No such file or directory at \\nasgw8315pn\Automation\Production\Scripts\ImpactSuite\UnzipMove.pl line 425.
+
+
+INC10726567
+
+MHC_process_file
+Failed to create path: \\BOSP7SASAPP02\J\Data_Warehouse\MHC\files\control_totals\20190316 at \\nasgw8315pn\Automation\Production\Scripts\ImpactSuite\UnzipMove.pl line 395.
+
+
+INC10726585
+agg/Benevera/file_intake: Benevera_move_file
+
+move of \\boss7ipropw01\f\ecg\inbound\humedica\H303173\36837_H303173_monthly_labrdata_PD20190317.dat.gz to \\BOSP7SASAPP02\J$\Data_Warehouse\Benevera\files\working failed: Permission denied 
+
+
+20/03/2019
+
+INC10767518
+agg/UC_Davis/file_intake : UC_Davis_process_file
+
+Failed to create path: \\BOSP7SASAPP01\N\Data_Warehouse\UC_Davis\files\unknown\20190320 at \\nasgw8315pn\Automation\Production\Scripts\ImpactSuite\UnzipMove.pl line 374.
+
+
+22/03/2019
+
+INC10790906
+
+:MHC_process_file
+
+cant make dir Result too large
+
+
+24/03/2019
+
+INC10808683
+
+agg/UC_Davis/file_intake:UC_Davis_process_file
+
+Failed to create path: \\BOSP7SASAPP01\N\Data_Warehouse\UC_Davis\files\unknown\20190324 at \\nasgw8315pn\Automation\Production\Scripts\ImpactSuite\UnzipMove.pl line 374.
+
+
+
+INC10808692
+
+agg/fullwell/file_intake: fullwell_move_file
+move of \\boss7ipropw01\f\ecg\inbound\fullwell\FUL_AEM_20190324_CHN_ME_AETACOE6_201902_20190322.txt to \\BOSP7SASAPP02\T$\Data_Warehouse\fullwell\files\working failed: No such file or directory 
+
+29032019
+
+INC10873745
+
+agg/Reliant/file_intake:Reliant_process_file
+
+results too laarge
+
+01042019
+
+
+INC10893104
+agg/MHC/file_intake :MHC_process_file
+
+cant make dir Result too large
+
+02042019
+
+INC10916110
+
+agg/Benevera/file_intake:Benevera_process_file
+
+error code : [empty]
